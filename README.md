@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Renato Barbosa  🖐️
 
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orenatobarbosa/)
 
 ## Tecnologias que eu uso no meu dia
