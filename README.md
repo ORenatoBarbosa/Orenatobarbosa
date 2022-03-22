@@ -38,3 +38,5 @@ Email: renato_barbosa22@hotmail.com
 Email: renatobarbosa@vivaldi.net
 
 Email: renao.barbosa@portoalegre.rs.gov.br
+
+ ![Snake animation](https://github.com/orenatobarbosa/LucasIankoski/blob/output/github-contribution-grid-snake.svg)
