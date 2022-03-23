@@ -31,7 +31,7 @@
 </div><br/>
 
 Estudante de Administração, trabalhando com Recursos Humanos e assistente administrativo.
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação e do conhecimento.
 
 Entre em contato comigo por webmail:
 
