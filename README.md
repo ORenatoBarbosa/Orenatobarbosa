@@ -35,7 +35,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 Entre em contato comigo por webmail:
 
-Email: renato_barbosa22@hotmail.com
+Email: renato_barbosa22@hotmail.com / orenato.barbosa95@gmail.com
 
 Email: renatobarbosa@vivaldi.net
 
