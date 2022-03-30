@@ -75,10 +75,12 @@
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img align="center" alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   
- ## PC LENOVO
-  
+ ## PC 
+  <div style="display: inline_block">      
+  <img align="center" alt="Lenovo" src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
   <img align="center" alt="NvidiaGeforce" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div><br/>
+  <img align="center" alt="Coreli5" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 
 Estudante de Administração, trabalhando com Recursos Humanos e assistente administrativo.
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da tecnologia e do conhecimento.
