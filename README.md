@@ -21,7 +21,7 @@
 <div style="display: inline_block">      
   <img align="center" alt="Dropbox" src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white" />
   <img align="center" alt="GoogleDrive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  <img align="center" alt="Mega" src="(https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" />
+  <img align="center" alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" />
   
  
  
