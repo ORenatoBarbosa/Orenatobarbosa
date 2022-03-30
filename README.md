@@ -1,5 +1,18 @@
 ## Olá! Eu sou o Renato Barbosa  🖐️
 
+Estudante de Administração, trabalhando com Recursos Humanos e assistente administrativo.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da tecnologia e do conhecimento.
+
+Entre em contato comigo por webmail:
+
+Email: renato_barbosa22@hotmail.com / orenato.barbosa95@gmail.com
+
+Email: renatobarbosa@vivaldi.net
+
+Email: renao.barbosa@portoalegre.rs.gov.br
+
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orenatobarbosa/)
  <a href="https://wa.me/555180218884" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href = "mailto:renato_barbosa22@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -81,16 +94,5 @@
   <img align="center" alt="NvidiaGeforce" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div><br/>
   <img align="center" alt="Coreli5" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-
-Estudante de Administração, trabalhando com Recursos Humanos e assistente administrativo.
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da tecnologia e do conhecimento.
-
-Entre em contato comigo por webmail:
-
-Email: renato_barbosa22@hotmail.com / orenato.barbosa95@gmail.com
-
-Email: renatobarbosa@vivaldi.net
-
-Email: renao.barbosa@portoalegre.rs.gov.br
 
  ![Snake animation](https://github.com/orenatobarbosa/LucasIankoski/blob/output/github-contribution-grid-snake.svg)
