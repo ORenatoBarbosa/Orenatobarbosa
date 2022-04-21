@@ -2,6 +2,10 @@
 
 Estudante de Administração, trabalhando com Recursos Humanos e assistente administrativo.
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da tecnologia e do conhecimento.
+Estudando, e desenvolvendo conhecimentos em Administração de Banco de Dados e ciência de dados.
+
+Desenvolvendo estudos em Excel, PowerBi, Python, MySql, Java e Javascript.
+
 
 Entre em contato comigo por webmail:
 
