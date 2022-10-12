@@ -13,7 +13,7 @@ Email: renato_barbosa22@hotmail.com / orenato.barbosa95@gmail.com
 
 Email: renatobarbosa@vivaldi.net
 
-Email: renao.barbosa@portoalegre.rs.gov.br
+
 
 
 
